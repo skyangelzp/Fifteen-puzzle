@@ -1,1 +1,1 @@
-# Game-Fifteen-puzzle-JS
+# Game Fifteen puzzle on JS
